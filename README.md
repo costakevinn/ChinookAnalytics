@@ -38,16 +38,17 @@ Every aggregation reconciles exactly to source revenue totals.
 
 ---
 
-## What This Platform Delivers
+## What This Project Delivers
 
-• Layered **stg → core → marts** data architecture
-• Referential integrity & domain constraint enforcement
-• Business-aligned analytical data modeling
-• Revenue reconciliation across all aggregation layers
-• Executive-ready analytical reporting
-• Fully reproducible Dockerized environment
+- Layered **stg → core → marts** data architecture  
+- Referential integrity & domain constraint enforcement  
+- Business-aligned analytical data modeling  
+- Revenue reconciliation across all aggregation layers  
+- Executive-ready analytical reporting  
+- Fully reproducible Dockerized environment  
 
-All marts reconcile 1:1 with core totals via automated validation.
+All marts reconcile **1:1 with core totals** via automated validation.
+
 
 ---
 
