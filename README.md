@@ -103,7 +103,15 @@ Each SQL layer has a single responsibility, mirroring production data engineerin
 
 ## Technical Stack
 
-PostgreSQL | Advanced SQL | Data Modeling | ETL / ELT | Aggregation & Analytical Marts | Data Validation & Reconciliation | Referential Integrity | Docker | Business Intelligence Foundations
+- PostgreSQL 16
+- Relational Data Modeling (3NF, Keys, Constraints)
+- ETL / ELT Pipelines
+- Analytical Data Marts Design
+- Data Validation & Reconciliation Frameworks
+- Referential & Domain Integrity Enforcement
+- Revenue Analytics & Customer Analytics
+- Docker & Containerized Environments
+- Business Intelligence Foundations
 
 ---
 
