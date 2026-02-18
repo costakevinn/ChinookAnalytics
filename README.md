@@ -1,4 +1,4 @@
-# ChinookAnalytics — Production-Grade SQL Analytical Data Platform
+# ChinookAnalytics — SQL Analytical Data Platform
 
 ChinookAnalytics is an end-to-end analytical data platform built entirely in **SQL and PostgreSQL**.
 
