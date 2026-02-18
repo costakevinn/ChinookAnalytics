@@ -56,14 +56,15 @@ All marts reconcile **1:1 with core totals** via automated validation.
 
 The platform materializes analytics across:
 
-• Revenue evolution (MoM / YoY growth)
-• Geographic revenue concentration
-• Customer Lifetime Value (LTV) distribution
-• Revenue dependency risk (Top-N concentration)
-• Artist & genre revenue distribution
-• High-value invoice decomposition
+- Revenue evolution (MoM / YoY growth)  
+- Geographic revenue concentration  
+- Customer Lifetime Value (LTV) distribution  
+- Revenue dependency risk (Top-N concentration)  
+- Artist & genre revenue distribution  
+- High-value invoice decomposition  
 
 All metrics are pre-computed, validated, and reproducible.
+
 
 ---
 
