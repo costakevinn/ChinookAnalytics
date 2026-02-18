@@ -1,0 +1,5 @@
+-- Base schemas for project
+CREATE SCHEMA IF NOT EXISTS stg;
+CREATE SCHEMA IF NOT EXISTS core;
+CREATE SCHEMA IF NOT EXISTS marts;
+
