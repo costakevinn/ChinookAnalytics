@@ -7,7 +7,9 @@ It transforms raw transactional music-store data into validated, structured, and
 This is structured analytical engineering — not exploratory SQL.
 
 **Author:** Kevin Mota da Costa
+
 **Portfolio:** [https://costakevinn.github.io](https://costakevinn.github.io)
+
 **LinkedIn:** [https://linkedin.com/in/costakevinnn](https://linkedin.com/in/costakevinnn)
 
 ---
